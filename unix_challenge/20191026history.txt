@@ -1,0 +1,501 @@
+  109  Step2.
+  110  ls -ls
+  111  cd ~/Final Project
+  112  cd ~/Final_Project
+  113  ls -l
+  114  cd Step2.Looking up Gene name in Homo Sapiens file
+  115  cd ~/Final_Project/Step2.Looking\ up\ Gene\ name\ in\ Homo\ Sapiens\ file/
+  116  vi lookupgene_name.py
+  117  ./ lookupgene_name.py 
+  118  ./lookupgene_name.py 
+  119  vi lookupgene_name.py 
+  120  vi lookupgene_name.py 
+  121  ./lookupgene_name.py 
+  122  vi lookupgene_name.py 
+  123  ./lookupgene_name.py 
+  124  vi lookupgene_name.py 
+  125  vi lookupgene_name.py 
+  126  ./lookupgene_name.py 
+  127  vi lookupgene_name.py 
+  128  :
+  129  cd ~
+  130  $ wget https://s3.amazonaws.com/rstudio-shiny-server-pro-build/centos6.3/x86_64/shiny-server-commercial-1.5.10.990-redhat-x86_64.rpm
+  131  $ sudo yum install --nogpgcheck shiny-server-commercial-1.5.10.990-redhat-x86_64.rpm
+  132  shiny-server-commercial-1.5.10.990-redhat-
+  133  $ wget https://s3.amazonaws.com/rstudio-shiny-server-pro-build/centos6.3/x86_64/shiny-server-commercial-1.5.10.990-redhat-x86_64.rpm
+  134  $ sudo yum install --nogpgcheck shiny-server-commercial-1.5.10.990-redhat-x86_64.rpm
+  135   sudo yum install --nogpgcheck shiny-server-commercial-1.5.10.990-redhat-x86_64.rpm
+  136   wget https://s3.amazonaws.com/rstudio-shiny-server-pro-build/centos6.3/x86_64/shiny-server-commercial-1.5.10.990-redhat-x86_64.rpm
+  137  sudo yum install --nogpgcheck shiny-server-commercial-1.5.10.990-redhat-x86_64.rpm
+  138   sudo yum install --nogpgcheck shiny-server-commercial-1.5.10.990-redhat-x86_64.rpm
+  139  A=5
+  140  A=$HOSTNAME
+  141  echo a
+  142  echo A
+  143  vi finalexam
+  144  vi finalexam
+  145  chmod 755 finalexam
+  146  ./finalexam.sh
+  147  finalexam
+  148  ls-lsa
+  149  ls
+  150  ./finalexam.sh
+  151  ./finalexam
+  152  vi finalexam7.sh
+  153  chmod 755 finalexam7.sh
+  154  ./finalexam7.sh
+  155  mkdir ~/myprogram/myprogram
+  156  mkdir myprogram
+  157  cd ~/myprogram
+  158  mkdir myprogram
+  159  cd ~
+  160  cd ~/myprogram/myprogram
+  161  cd ~
+  162  ln -s ~/myprogram/myprogram ~/myprogram/myprogram
+  163  ln -s myprogram
+  164  ln -s myprogram
+  165  ln -s myprogram ~/myprogram/myprogram
+  166  echo "John, Smith,34,
+  167  London Arthur,Evans,21,
+  168  Newport George,Jones,32,Truro" > names.csv
+  169  cut -d ',' -f 1 names.csv
+  170  vi.finalexam1.sh
+  171  vi finalexam1.sh
+  172  chmod finalexam1.sh
+  173  chmod 755 finalexam1.sh
+  174  ./finalexam1.sh
+  175  cut -d ',' -f 1 names.csv
+  176  > cut -d "\t" -f3 test1.txt
+  177   cut -d "\t" -f3 test1.txt
+  178  vi test1.txt
+  179  cut -d "\t" -f1 test1.txt
+  180  cut -d " " -f1 test1.txt
+  181  vi test1.txt
+  182  vim
+  183  vim python
+  184  vim ~/.bashrc
+  185  bash
+  186  /Applications/Utilities/Adobe\ Sync/CoreSyncPlugins/LiveType/customhook/uninstall ; exit;
+  187  cd/opt/cisco/anyconnect/bin
+  188  ls-l
+  189  cd/library
+  190  cd/lyn
+  191  cd~
+  192  cd ~
+  193  cd desktop
+  194  cd ~
+  195  ls-l
+  196  ls -l
+  197  cd library
+  198  cd cisco
+  199  sudo-s
+  200  sudo -s
+  201  cd desktop
+  202  cd cisco
+  203  ./*uninstall.sh
+  204  cd cisco/anyconnect/bin
+  205  cd cisco
+  206  swd
+  207  ls -l
+  208  ls -h
+  209  sudo -u
+  210  sudo -s
+  211  pkgutil --pkgs|grep com.cisco
+  212  sudo pkgutil --forget com.cisco.pkg.anyconnect.vpn
+  213  /
+  214  /Applications/Python\ 3.7/Update\ Shell\ Profile.command ; exit;
+  215  /Applications/Python\ 3.7/Install\ Certificates.command ; exit;
+  216  conda install -c conda-forge jupyterlab
+  217  pip install jupyterlab
+  218  jupyter lab
+  219  -c conda-forge jupyterlab
+  220  conda install -c conda-forge jupyterlab
+  221  /anaconda3/bin/jupyter_mac.command ; exit;
+  222  /anaconda3/bin/jupyter_mac.command ; exit;
+  223  python --version
+  224  import sys
+  225  pip --version
+  226  python -m ensurepip --default-pip
+  227  python -m pip install --upgrade pip setuptools wheel
+  228  python3 -m venv tutuorial_env source tuturial_env/bin/activate
+  229  /anaconda3/bin/jupyter_mac.command ; exit;
+  230  /anaconda3/bin/jupyter_mac.command ; exit;
+  231  R
+  232  r
+  233  ls
+  234  mkdir liver_WXS
+  235  cd liver_WXS/
+  236  mv ../gdc_download_20191021_202006.822923.tar.gz .
+  237  ls
+  238  gunzip gdc_download_20191021_202006.822923.tar.gz 
+  239  ls
+  240  gunzip gdc_download_20191021_202006.822923.tar 
+  241  ls
+  242  cd gdc_download_20191021_202006.822923
+  243  ls
+  244  cd ..
+  245  cd ..
+  246  cd TCGA
+  247  cd Document
+  248  cd Documents
+  249  ls 
+  250  cd ..
+  251  cd ..
+  252  ls
+  253  cd TCGA
+  254  ls
+  255  cd liver_RNAseq
+  256  ls
+  257  cd ..
+  258  ls
+  259  head gdc_sample_sheet.2019-10-21.tsv 
+  260  cd liver_RNAseq/
+  261  r
+  262  r
+  263  ls
+  264  .Rdata
+  265  data_wranging.r
+  266  cd data_wranging.r
+  267  R
+  268  r
+  269  cd document
+  270  cd Document
+  271  cd Documents/
+  272  mkdir TCGA
+  273  cd TCGA
+  274  mv ~/Downloads/gdc_* .
+  275  ls
+  276  gunzip gdc_download_20191021_201547.484356.tar.gz 
+  277  tar -xvf gdc_download_20191021_201547.484356.tar 
+  278  ls 
+  279  mkdir liver_RNAseq
+  280  cd liver_RNAseq/
+  281  cd ../
+  282  cd liver_RNAseq/
+  283  mv ../gdc_download_20191021_201547.484356.tar 
+  284  mv ../gdc_download_20191021_201547.484356.tar .
+  285  man gunzip
+  286  man tar
+  287  ls
+  288  tar -xvf gdc_download_20191021_201547.484356.tar 
+  289  ls
+  290  tar -xvf --strip-components count gdc_download_20191021_201547.484356.tar 
+  291  tar -xvf gdc_download_20191021_201547.484356.tar --strip-components count 
+  292  ls
+  293  tar -xvf gdc_download_20191021_201547.484356.tar --strip-components 1
+  294  ls
+  295  gunzip *
+  296  head ffeed225-c2a3-4b4c-954c-4816903782a9.htseq.counts 
+  297  r
+  298  cd Document
+  299  cd tcga
+  300  cd Documents
+  301  cd TCGA
+  302  ls
+  303  cd liver_RNAseq/
+  304  ls
+  305  R
+  306  cd Documents
+  307  cd TCGA
+  308  LS
+  309  cd liver_RNAseq/
+  310  ls
+  311  R
+  312  R
+  313  cd ~
+  314  /Applications/Utilities
+  315  cd /Applications/Utilities
+  316  ls
+  317  git -- version
+  318  git --version
+  319  nano
+  320  nano
+  321  cd ~/Desktop/workshop/unix_intro
+  322  cd ~/Desktop/workshop/unix_intro
+  323  cd ~
+  324  cd ~/Desktop/workshop/unix_intro
+  325  ls
+  326  vim example.txt 
+  327  short data
+  328  head data
+  329  vim data
+  330  cd data
+  331  ls
+  332  vim all_sample
+  333  less all_samples/
+  334  cd all_samples/
+  335  ls
+  336  head
+  337  cd ..
+  338  cd..
+  339  cd ..
+  340  date
+  341  date -u
+  342  head
+  343  head example.txt 
+  344  less example.txt 
+  345  head -n 5
+  346  head -n 5 example.txt 
+  347  --help
+  348  head --help
+  349  head file ...
+  350  head example.txt ...
+  351  man head
+  352  :
+  353  head --help
+  354  pwd
+  355  cd ~/Desktop/workshop
+  356  cd ~/Desktop/workshop/unix_intro/
+  357  pwd
+  358  ls
+  359  cd experiment/
+  360  ls
+  361  vim notes.txt 
+  362  head notes.txt 
+  363  ls
+  364  cd ..
+  365  ls
+  366  head experiment/notes.txt 
+  367  cd ~
+  368  nano ~/.bashrc
+  369  vim ~/.bashrc
+  370  cd ~/Desktop/workshop/
+  371  ls
+  372  cd unix_i
+  373  un
+  374  he
+  375  cd unix_intro/
+  376  pwd
+  377  cd experiment/
+  378  head notes.txt 
+  379  cd ..
+  380  pwd
+  381  clear
+  382  tail experiment/example.txt
+  383  cd experiment/
+  384  ls
+  385  cd ..
+  386  ls
+  387  tail example.txt
+  388  less example.txt 
+  389  wc example.txt 
+  390  wc --help
+  391  wc example.txt ...
+  392  wc -clmw example.txt 
+  393  man wc
+  394  man wc
+  395  wc -l
+  396  wc -c
+  397  wc -c example.txt 
+  398  cp example.txt exampple_copy.txt 
+  399  ls
+  400  rm exampple_copy.txt 
+  401* cp example.txt example_copy.txt 
+  402  ls
+  403  pwd
+  404  cp example.txt /Users/lyn/Desktop/workshop/unix_intro/data/example_copy.txt
+  405  cd data
+  406  ls 
+  407  mv example_copy.txt /Users/lyn/Desktop/workshop/unix_intro/experiment/
+  408  ls
+  409  cd ..
+  410  ls experiment/
+  411  rm experiment/example_copy.txt
+  412  ls experiment/
+  413  nano
+  414  nano sample_names.txt
+  415  ls
+  416  head sample_names.txt 
+  417  nano sample_names.txt 
+  418  mkdir subset
+  419  ls
+  420  rmdir subset
+  421  ls
+  422  rmdir --help
+  423  man rm
+  424  clear
+  425  cd ~/Desktop/workshop/unix_intro
+  426  wc -l example.txt
+  427  ls
+  428  ls | wc -l
+  429  ls data/all_samples/
+  430  ls data/all_samples/ | wc -l
+  431  ls > directory_contents.txt
+  432  ls
+  433  head directory_contents.txt 
+  434  ls >>directory_contents.txt 
+  435  head di
+  436  head directory_contents.txt 
+  437  ls
+  438  ls *.txt
+  439  history
+  440  clear
+  441  new_var=welcome_back
+  442  echo
+  443  echo $new_var
+  444  new_var=item
+  445  echo $item
+  446  for item in earth mars venus; do echo $item; ls
+  447  for item in earth mars venus; do echo $item; down; done
+  448  for item in earth mars venus; do echo $item; done
+  449  for item in earth mars venus; do echo $item > planets.txt; vim planets.txt; done
+  450  for item in earth mars venus;  donw
+  451  for item in earth mars venus; do  echo $item >> planets.txt; done
+  452  for item in earth mars venus; do; echo $items >> planets.txt;done
+  453  for item in earth mars venus; do echo $item; echo $item >> planets.txt; done
+  454  for item in $(cat planets.txt); do echo $item; done
+  455  ls
+  456  head planets.txt 
+  457  clear
+  458  ls
+  459  for object in $(head directory_contents.txt ); do echo $object; done
+  460  rm example_copy.txt 
+  461  ls
+  462  ls
+  463  head directory_contents.txt
+  464  history
+  465  history > history_unix.txt
+  466  ls
+  467  cat history_unix.txt 
+  468  clear
+  469  clear
+  470  cd ..
+  471  pwd
+  472  mkdir git_lesson
+  473  cd git_lesson/
+  474  pwd
+  475  ls
+  476  git  init
+  477  ls -a
+  478  ls -lha
+  479  rm -r .git
+  480  ls -lha
+  481  cd ..
+  482  ls
+  483  git  init
+  484  ls -a
+  485  git config --global user.name"Jiawen"
+  486  git config --global user.email"jiawen_yang16@outlook.com"
+  487  git config --list
+  488  git config --global user.email "jiawen_yang16@outlook.com"
+  489  git config --global user.email "Jiawen"
+  490  git config --list
+  491  git config --global user.name "Jiawen"
+  492  git config --global user.email "jiawen_yang16@outlook.com
+"
+  493  git --list
+  494  git config --list
+  495  git add --all
+  496  git commit --message "initialize the workshop directory as a repository"
+  497  man git commit
+  498  pwd
+  499  cd /Users/lyn/Desktop/workshop/git_lesson
+  500  ls
+  501  ls -a
+  502  touch practice.txt
+  503  ls
+  504  git add practice.txt 
+  505  git commit --message "practiced committing new file"
+  506  git status
+  507  echo "This is the first line" >> practice.txt
+  508  cat practice.txt 
+  509  git status
+  510  git add practice.txt 
+  511  git status
+  512  git commit --message"more git practice using >>"
+  513  git commit --message "more git practice using >>"
+  514  echo "hello world" >> practice.txt 
+  515  git status
+  516  git diff
+  517  git add practice.txt 
+  518  git diff
+  519  nano practice.txt 
+  520  git add practice.txt 
+  521  git diff
+  522  nano practice.txt 
+  523  git status
+  524  git diff
+  525  nano practice.txt 
+  526  git commit
+  527  git status
+  528  git diff
+  529  nano new_file.txt
+  530  nano new_file.txt
+  531  git add new_file.txt
+  532  git commit --meassage "i change the practice file and i add a new file"
+  533  git commit --message "i change the practice file and i add a new file"
+  534  git status
+  535  git log
+  536  it remote add origin https://github.com/Lyn16/workshop.git
+  537  git commit --message "i change the practice file and i add a new file"
+  538  git remote add origin https://github.com/Lyn16/workshop.git
+  539  git push -u origin master
+  540  git remote --verbose
+  541  git pull
+  542  nano new_file.txt
+  543  git commit new_file.txt 
+  544  gitt add new_file.txt 
+  545  git add new_file.txt 
+  546  git status
+  547  git commit --message "edit file"
+  548  git log
+  549  git push new_file.txt 
+  550  git push
+  551  cd ..
+  552  ls
+  553  cd unix_challenge/
+  554  ls
+  555  head ls
+  556  head |ls
+  557  cat Denmark.cc.txt 
+  558  cat country.txt 
+  559  grep *.cc.txt
+  560  grep *.cc.txt > countryname.txt
+  561  cat countryname.txt 
+  562  head countryname.txt 
+  563  ls
+  564  rm countryname.txt 
+  565  for item in ls unix_challenge/; do echo $item; done
+  566  new_var=ls unix_challenge/
+  567  new_var=ls
+  568  head new_var
+  569  ls
+  570  new_var=ls
+  571  echo $new_var
+  572  ls > names.txt
+  573  cat names.txt
+  574  nano names.txt
+  575  new_var=cat names.txt
+  576  for item in names.txt; do  echo "items"; done
+  577  for item in names.txt; do cat $item; done
+  578  for i in unix_challenge/; do echo $i; done
+  579  for i in names.txt ; do  grep $i; done
+  580  for i in $(names.txt); do cat $i; done
+  581  for i in $(cat names.txt); do cat $i | grep 1997 ; done
+  582  for i in *.cc.txt; do  cat country.txt > all_countries.txt; cat $i >> all_countries.txt; done
+  583  cat all_countries.txt 
+  584  for i in *.cc.txt; do cat $i >> country.txt; done
+  585  cat country.txt 
+  586  for file in *.cc.txt; do cat *.cc.txt >> country.txt; head country.txt; donw; done
+  587  cat *.cc.txt >> country.txt
+  588  head country.txt
+  589  cat $(*.cc.txt) >> country.txt
+  590  cat *.cc.txt >> country.txt
+  591  cat country.txt
+  592  grep 1997 country.txt
+  593  grep 1997 country.txt
+  594  for i in $(ls); do cat $i >> country.txt; done
+  595  $(ls)
+  596  for in in *.cc.txt; do cat $i >> country.txt; done
+  597  for i in *.cc.txt; do cat $i >> country.txt; done
+  598  nano loop.sh
+  599  cat loop.sh 
+  600  git status
+  601  git restore country.txt
+  602  cat country.txt
+  603  bash loop.sh 
+  604  bash loop.sh 
+  605  cat country.txt
+  606  nano loop.sh
+  607  bash loop.sh
+  608  history > 20191026history.txt
