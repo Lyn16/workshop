@@ -1,0 +1,14 @@
+data
+directory_contents.txt
+example.txt
+example_copy.txt
+experiment
+sample_names.txt
+six_commands
+data
+directory_contents.txt
+example.txt
+example_copy.txt
+experiment
+sample_names.txt
+six_commands
